@@ -1,6 +1,6 @@
 ## Olá, Seja BEM-VINDO ao meu GitHub 😎👊 
 
-** Meu nome é Victor Henrique, mais conhecido como VH, tenho 25 anos, sou natural de João Pessoa - PB a cidade mais maravilhosa desse mundo 🏖️🥵, já trabalhei como Bombeiro Civil, tive algumas frustrações em carreiras militares e acabei entrando com os dois pés na porta no mundo da programação, já que tecnológia também é uma área que eu amo ♥️ 💻.
+Meu nome é Victor Henrique, mais conhecido como VH, tenho 25 anos, sou natural de João Pessoa - PB a cidade mais maravilhosa desse mundo 🏖️🥵, já trabalhei como Bombeiro Civil, tive algumas frustrações em carreiras militares e acabei entrando com os dois pés na porta no mundo da programação, já que tecnológia também é uma área que eu amo ♥️ 💻.
 
 ## Estou aprendendo
 
