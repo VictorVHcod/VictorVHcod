@@ -1,10 +1,12 @@
-## olá, Seja BEM-VINDO ao meu GitHub 😎👊 
+## Olá, Seja BEM-VINDO ao meu GitHub 😎👊 
 
-## Meu nome é Victor Henrique, mais conhecido como VH, tenho 25 anos, sou natural de João Pessoa - PB a cidade mais maravilhosa desse mundo 🏖️🥵, já trabalhei como Bombeiro Civil, tive algumas frustrações em carreiras militares e acabei entrando com os dois pés na porta no mundo da programação, já que tecnológia também é uma área que eu amo ♥️ 💻.
+** Meu nome é Victor Henrique, mais conhecido como VH, tenho 25 anos, sou natural de João Pessoa - PB a cidade mais maravilhosa desse mundo 🏖️🥵, já trabalhei como Bombeiro Civil, tive algumas frustrações em carreiras militares e acabei entrando com os dois pés na porta no mundo da programação, já que tecnológia também é uma área que eu amo ♥️ 💻.
 
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><i class="devicon-github-original-wordmark" width="40" height="40"></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+          
+          
 
 ## Contatos 
 
