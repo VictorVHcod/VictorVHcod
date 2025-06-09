@@ -17,7 +17,11 @@ Meu nome é Victor Henrique, mais conhecido como VH, tenho 25 anos, sou natural 
           
 </div>
 
-
+<div align=center>
+          
+<img src="https://raw.githubusercontent.com/VictorVHcod/VictorVHcod/output/snake.svg" alt="Snake animation" />
+          
+</div>
 
 
 
